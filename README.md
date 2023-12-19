@@ -1,4 +1,4 @@
-# Study
+# L2
 I create a code for following question,
 Solve the following set of equations.
 2x + y – z = 0
