@@ -1,1 +1,1 @@
-I created the functions using python by self
+I created the functions by self
